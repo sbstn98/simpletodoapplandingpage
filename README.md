@@ -1,6 +1,6 @@
 # Simple To-Do App Landingpage
 
-A responsive Landingpage for my simple To-Do App, build with bulma.io Framework and Vanilla Javascript.
+A responsive Landingpage for my simple To-Do App, build with bulma.io Framework and Vanilla JavaScript.
 
 Functions:
 
@@ -10,7 +10,7 @@ Used Technologies:
 
 - HTML
 - CSS
-- Vanilla Javascript
+- Vanilla JavaScript
 - bulma.io Framework
 
 
