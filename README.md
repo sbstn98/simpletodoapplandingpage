@@ -1,4 +1,4 @@
-# simpletodoapplandingpage
+# Simple To-Do App Landingpage
 
 A Landingpage for my simple To-Do App, build with bulma.io Framework and Vanilla Javascript.
 
